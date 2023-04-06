@@ -1,0 +1,19 @@
+.steps_conteiner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.steps_col {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.steps_col_items_left {
+    flex-direction: column;
+}
+
+.steps_col_items_right {
+    flex-direction: column;
+}

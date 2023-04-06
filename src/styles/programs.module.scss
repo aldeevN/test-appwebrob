@@ -1,0 +1,13 @@
+.programs_container {
+    min-height: 520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.technologies {
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+}
